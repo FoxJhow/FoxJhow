@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhonata</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **HTML, CSC and JavaScript...**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FoxJhow?tab=repositories](https://github.com/FoxJhow?tab=repositories)
 
